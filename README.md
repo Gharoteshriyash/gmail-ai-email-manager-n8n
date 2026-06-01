@@ -10,6 +10,15 @@ The workflow automatically classifies incoming emails, applies labels, generates
 
 ![Workflow](screenshots/workflow.png)
 
+## Workflow Process
+
+1. Gmail Trigger monitors incoming emails.
+2. OpenAI classifies emails into categories.
+3. Gmail labels are applied automatically.
+4. AI generates contextual responses.
+5. Scheduling requests are identified.
+6. Google Calendar events are created automatically.
+
 ## Features
 
 ### Email Classification
