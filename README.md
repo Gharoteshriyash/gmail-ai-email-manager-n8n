@@ -68,6 +68,16 @@ This workflow helps reduce time spent on:
 * Slack/Telegram integration
 * CRM integration
 
+## Key Skills Demonstrated
+
+- Workflow Automation
+- Prompt Engineering
+- AI Integration
+- Gmail API Integration
+- Google Calendar Automation
+- Business Process Automation
+- Email Classification
+
 ## Author
 
 Shriyash Gharote
